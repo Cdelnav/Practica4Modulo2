@@ -1,0 +1,10 @@
+Enunciado práctica 4 Módulo 2
+ 
+**Aplicar un Do While para validar que la cantidad de colaboradores 
+    sea numérica.
+**Dibujar en una tabla los datos de los colaboradores ingresados 
+    por el usuario, realizar el cálculo del salario por colaborador (salarioHora * cantidadHoras).
+**Implementar bootstrap. Puede ser por CDN o descargando los archivos.
+**Si el salario supera los 400.000 en la columna de salario tenga 
+    un fondo verde, en caso contrario tenga un fondo rojo. 
+    se sugiere usar las clases bg-success y bg-danger de bootstrap.
